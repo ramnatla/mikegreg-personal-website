@@ -34,6 +34,7 @@ body{
 
 .projects-header{
 	font-size: 2em;
+	padding: 100px;
 }
 
 .projects-content{
@@ -71,15 +72,11 @@ body{
 }
 
 .row{
-	display: inline-flex;
+	display: flex;
 }
 
-.col1{
-	padding-right: 150px;
-}
-
-.col2{
-	padding-left: 50px;
+.col{
+	flex: 50%;
 }
 
 .washtenaw-county{
