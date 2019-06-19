@@ -148,6 +148,7 @@ h2{
 .experiences-flex-container{
 	display: inline-flex;
 	margin-top: -40px;
+	margin-right: 100px;
 }
 
 .experiences-info{
